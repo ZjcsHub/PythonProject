@@ -1,0 +1,973 @@
+
+"app_name" = "Orunning";
+
+"main_tab_today" = "Oggi";
+"main_tab_activity" = "Attività";
+"main_tab_reminders" = "Promemoria";
+"settings" = "Impostazioni";
+"loading" = "Caricamento ...";
+"distance_unit" = "km";
+"time_unit" = "Min";
+"calories_unit" = "Kcal";
+"steps_unit" = "Passi";
+"main_today_goal" = "Obiettivo";
+"data_details_week" = "Settimana";
+"data_details_month" = "Mese";
+"data_details_average" = "Media";
+"data_details_prompt_week" = "Rispetto alla scorsa settimana";
+"data_details_prompt_month" = "Rispetto al mese scorso";
+
+"activity_select_mode" = "Seleziona la modalità Sport";
+"activity_all" = "Tutto";
+"activity_walking" = "A piedi";
+"activity_running" = "Corsa";
+"activity_trail_run" = "Corsa su sentiero/ corsa di montagna";
+"activity_run_indoor" = "Corsa al coperto tapis roulant ecc.";
+"activity_hiking" = "Escursioni a piedi";
+"activity_biking" = "Ciclismo";
+"sport_map" = "Mappa";
+"sport_details" = "Dettagli";
+"sport_report" = "Report";
+"sport_pace" = "Ritmo";
+"sport_pace_suffix" = "Velocità media";
+"sport_hr_suffix" = "Frequenza cardiaca media";
+"sport_cadence_suffix" = "Cadenza (passi / min)";
+"sport_time_suffix" = "Tempo totale";
+"sport_report_maximum" = "Massimo";
+"sport_report_altitude" = "Altitudine";
+"sport_report_cadence" = "Cadenza";
+"sport_report_best" = "Migliore";
+
+"reminders_add" = "Aggiungi un nuovo promemoria";
+"reminders_hint1" = "È possibile impostare fino a 6 promemoria giornalieri";
+"reminders_hint2" = "Scegli il tipo di promemoria";
+"reminders_hint3" = "Inserire la data e l'ora";
+"reminders_hint4" = "Quando arriva l'ora del promemoria, l'orologio vibra gradualmente e visualizza l'icona corrispondente.";
+"reminders_type" = "Tipo di promemoria";
+"reminders_repeat" = "Ripetizione personalizzata";
+"reminders_time" = "Tempo";
+"reminders_mark" = "Contrassegno";
+"reminders_sport" = "Sport";
+"reminders_sleep" = "Sonno";
+"reminders_eat" = "Mangiare";
+"reminders_medicine" = "Medicina";
+"reminders_wake" = "Svegliarsi";
+"reminders_meeting" = "Riunione";
+"reminders_repeat_mon" = "L";
+"reminders_repeat_tue" = "M";
+"reminders_repeat_wed" = "M";
+"reminders_repeat_thu" = "G";
+"reminders_repeat_fri" = "V";
+"reminders_repeat_sat" = "S";
+"reminders_repeat_sun" = "D";
+"reminders_once" = "Una volta";
+
+"ok" = "OK";
+"cancel" = "Annulla";
+"save" = "Salva";
+"edit" = "Modifica";
+"network_error" = "La rete non è disponibile. Prima di continuare, si prega di configurare un dispositivo di rete.";
+"nav_string" = "Configurazione";
+"setting_disconnected" = "Scollegato";
+"setting_profile" = "Il mio profilo";
+"setting_goals" = "Obiettivi";
+"setting_findme" = "Trova l'orologio";
+"setting_anti_lost" = "Anti-perdita";
+"setting_connect" = "Collegare l'orologio";
+"setting_reset" = "Reset";
+"setting_vibration" = "Vibrazione";
+"setting_ringtone" = "Suoneria";
+"setting_ringtone_vibration" = "Suoneria e vibrazione";
+"setting_silence" = "Silenzioso";
+"setting_sound" = "Suono";
+"setting_weather" = "Tempo";
+"goal_distance" = "Distanza";
+"goal_calorie" = "Calorie";
+"goal_sleep" = "Sonno";
+"setting_connect_next" = "Successivo";
+"setting_connect_setup" = "Imposta l'orologio";
+"setting_connect_prompt2" = "L'associazione tra l'orologio e il tuo cellulare richiede 2 passaggi.";
+"setting_connect_prompt4" = "Abbina l'applicazione mobile dell'Orologio per sincronizzare i tuoi dati e le notifiche";
+"setting_connect_prompt6" = "Attiva il Bluetooth del telefono e collega l'orologio per ricevere chiamate";
+"setting_connect_prompt7" = "Ora vai su "Step 2" per ricevere ed effettuare chiamate";
+"setting_connect_prompt8" = "Vai all'opzione Bluetooth nel menú impostazioni del tuo telefono e cerca l'elenco dei dispositivi Bluetooth";
+"setting_connect_prompt3" = "Passaggio N.1";
+"setting_connect_prompt5" = "Passaggio N.2";
+"setting_connect_select_watch" = "Seleziona il tuo orologio";
+"setting_connect_try_again" = "Per favore riprova";
+"my_title" = "Il mio profilo";
+"my_gender" = "Genere";
+"my_birthday" = "Compleanno";
+"my_weigth" = "Peso";
+"my_heigth" = "Altezza";
+"picture_image_loading" = "Caricamento in corso ...";
+"pull_to_refresh_header_hint_ready" = "Aggiorna";
+"pushmsg_center_pull_down_update_time" = "Ultimo aggiornamento:";
+"pushmsg_center_pull_down_text" = "Trascinare verso il basso per aggiornare";
+"save_successfully" = "Configurazione riuscita";
+"setting_weather_city_select" = "Seleziona la città";
+"data_details_deily_goal" = "Obiettivo giornaliero";
+"data_details_total" = "Totale";
+"disconnect_dialog_message" = "Vuoi davvero disconnettere l'orologio?";
+"disconnect_dialog_title1" = "Riavvia l'orologio";
+"disconnect_dialog_message1" = "Vuoi veramente resettare il tuo orologio?";
+"portrait_title" = "Avatar";
+"sport_report_calorie_chart_unit" = "(Kcal)";
+"sport_report_step_chart_unit" = "(Passi / minuto)";
+"sport_report_pace_chart_unit" = "(Min / km)";
+"sport_report_speed_chart_unit" = "(Km / h)";
+"sport_report_altitude_chart_unit" = "(Metro)";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Tomorrow_hasn't_arrived" = "Non è ancora domani";
+"Haven't_to_next_week" = "Non siamo ancora nella prossima settimana";
+"Haven't_to_next_month" = "Non siamo ancora nel mese prossimo";
+"Sun" = "Dom";
+"Mon" = "Lun";
+"Tues" = "Mar ";
+"Wed" = "Mer";
+"Thur" = "Gio";
+"Fri" = "Ven";
+"Sat" = "Sab";
+"Sunday" = "Domenica";
+"Monday" = "Lunedi";
+"Tuesday" = "Martedì";
+"Wednesday" = "Mercoledì";
+"Thursday" = "Giovedi";
+"Friday" = "Venerdì";
+"Saturday" = "Sabato";
+"h" = "H";
+"Camera" = "Fotocamera";
+"Photo" = "Album";
+"delete" = "Cancella";
+"set_up_clock_num" = "È possibile configurare fino a 10 allarmi";
+"Everyday" = "Ogni giorno";
+"submit" = "Inviare";
+"Modify_the_failure" = "Modifica fallita";
+"Modify_the_success" = "Modificato correttamente";
+"Success" = "Completato";
+"Failure" = "Errore";
+"Watch_Face" = "Quadrante dell'orologio";
+"Break_even_remind" = "Avviso di disconnessione";
+"Step" = "Conteggio dei passi";
+"Tip" = "Promemoria";
+"Setting_Failure" = "Impossibile configurare";
+"m" = "Metro";
+"Reload_the_BLE" = "Ricarica";
+"Manual_Select" = "Manuale";
+"set_Automatically" = "Automatico";
+"man" = "Mascile";
+"woman" = "Femminile";
+"fill_out_nickname" = "Si prega di completare il profilo";
+"select_gender" = "Si prega di selezionare il genere";
+"set_your_birthday" = "Per favore, imposta la tua data di nascita";
+"set_your_weight" = "Per favore, imposta il peso";
+"set_your_height" = "Per favore, imposta l'altezza";
+"kg" = "kg";
+"lb" = "Lb";
+"cm" = "Cm";
+"Feet/inches" = "Piedi / pollici";
+"data_not_synchronized" = "I dati non sono sincronizzati";
+"Bluetooth_not_connected" = "Il Bluetooth non è collegato";
+"Disconnect_Smart_Watch" = "Disconnetti Bluetooth";
+
+
+"sleep_details_bed_time" = "Iniziato a dormire";
+"sleep_details_wake_up_time" = "Svegliato";
+"sleep_details_light" = "Sonno leggero";
+"sleep_details_deep" = "Sonno profondo";
+"sleep_details_total" = "Sonno totale";
+"today_heart_rate" = "Ritmo cardiaco";
+"heart_rate_unit" = "bpm";
+"sleep_report_max_week" = "Settimana max";
+"sleep_report_min_week" = "Settimana Min.";
+"sleep_report_max_mon" = "Mese Max";
+"sleep_report_min_mon" = "Mese Min.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"sleep_report_maximum" = "Massimo";
+"sleep_report_minimum" = "Minimo";
+
+
+"setting_dial" = "I quadranti dell'orologio";
+"setting_skin" = "Tema";
+"sport_report_hr_zone_label" = "Frequenza cardiaca ";
+"sport_report_hr_zone_help" = "Aiuto/Assistenza";
+"sport_report_hr_zone5" = "Zona 5";
+"sport_report_hr_zone4" = "Zona 5";
+"sport_report_hr_zone3" = "Zona 4";
+"sport_report_hr_zone2" = "Zona 3";
+"sport_report_hr_zone1" = "Zona 2";
+"sport_pace_annotation2" = "Zona 1";
+"sport_report_hr_zone_label6" = "Zone 1- Riscaldamento - MHR (50 ~ 60%) aiuta a riscaldarsi o aiuta a ripristinare e migliorare il metabolismo";
+"sport_report_hr_zone_label7" = "Zone 2 - Facile - MHR (dal 60 al 70%) aumenta il metabolismo, il metabolismo dei grassi e il controllo del peso";
+"sport_report_hr_zone_label8" = "Zona 3-Aerobica - MHR (70-80%) in allenamento intensivo per migliorare la capacità aerobica. Aiuta a rafforzare il cuore, i polmoni e i vasi sanguigni";
+"sport_report_hr_zone_label9" = "Zona 4 - Limite - (80 - 90%) per migliorare la tolleranza dell'acido lattico, migliorare la capacità di esercizio ad alta velocità e la resistenza.";
+"sport_report_hr_zone_label10" = "Zona 5-Massimo - MHR (90 ~ 100%) mostra una respirazione e una forza muscolare anaerobica. E' preferibile  ridurre il battito cardiaco.";
+
+
+
+
+
+
+
+
+
+
+
+
+"share_tip" = "Sto usando Orunning, unisciti a noi!";
+
+
+"mile_unit" = "Miglia";
+"watchface_updata" = "Aggiorna";
+"sport_speed" = "Velocità";
+"share_label" = "Condividi";
+"export_label" = "Esporta GPX";
+"track_tip" = "Nessun dato";
+"strava_label" = "Strava";
+"strava_tip" = "Autorizzazione annullata";
+
+"pushmsg_center_pull_down_update_no_time" = "Ultimo aggiornamento: nessun dato";
+
+"setting_advancerSettings" = "Impostazioni avanzate";
+"setting_notification" = "Notifiche";
+"setting_sedentary" = "Avviso di sedentarietà";
+"setting_heart" = "Ritmo cardiaco";
+"setting_drink" = "Bevi un po' d'acqua";
+"setting_disturb" = "Non disturbare";
+"setting_advanced_activate" = "Schermo luminoso";
+"setting_wearing" = "Stile di utilizzo";
+"sedentary_remaind_tiplabel" = "Suggerimenti: impostare l'inizio e la fine del periodo di tempo, in un determinato tempo sedentario (minuti), la soglia sedentaria (passi) non è soddisfatta";
+"heart_remaind_tiplabel" = "Nota: l'ora di inizio e l'ora di fine definiscono il periodo di tempo durante il quale il braccialetto attiva la funzione di monitoraggio della frequenza cardiaca. Il braccialetto registrerà la frequenza cardiaca in base all'intervallo di tempo specificato per quel periodo.";
+"disturb_remaind_tiplabel" = "Nota: Quando la modalitá "Non disturbare" é attivata, oltre ai promemoria e alla funzione " girare il polso per illuminare lo schermo", tutte le notifiche e le chiamate non appariranno  piú automaticamente sullo schermo.";
+"remaind_tip" = "L'ora di inizio deve essere prima dell'ora di fine";
+"remind_after" = "Intervallo di tempo";
+"remind_star" = "Ora di inizio";
+"remind_end" = "Ora di fine";
+"remind_threshold" = "limite";
+"setting_activate" = "Alza la mano per illuminare lo schermo";
+"setting_palming" = "Girare il polso per illuminare lo schermo.";
+"setting_wearing_left" = "Mano sinistra";
+"setting_wearing_right" = "Mano destra";
+"setting_advanced_remind_screen" = "Schermo luminoso";
+"setting_bright_vibration" = "Schermo luminoso e vibrazioni";
+"setting_advanced_remind" = "Modalità promemoria";
+
+
+"GPS_Watch" = "Orologio GPS";
+"Smart_Watch" = "Smart watch";
+"Smart_Bracelet" = "Braccialetto";
+"watchface_tip" = "In attesa che l'orologio carichi le risorse del quadrante";
+"activity_swimming" = "Nuoto";
+
+"setting_update" = "Aggiornamento del firmware";
+"update_fail" = "Aggiornamento fallito";
+"update_success" = "Aggiornamento riuscito";
+"update_isnew" = "È l'ultima versione.";
+"firmware_tip" = "Il firmware è in fase di aggiornamento.";
+"firmware_upgrade" = "Inizia l'aggiornamento";
+
+
+
+
+
+
+"firmware_check" = "Controlla la nuova versione";
+
+
+
+
+
+"not_support_ble" = "Il dispositivo non supporta Bluetooth 4.0";
+"wave_his_photo" = "Agitare per scattare la foto";
+"camera_activity_save_print_failure" = "Il salvataggio dell'immagine è fallito";
+"camera_activity_permission" = "Se non autorizzi di leggere l'album locale, non potrai aprire l'album. Per favore apriri lo spazio di archiviazione nella gestione delle autorizzazioni del tuo telefono.";
+"camera_activity_hint" = "Richiesta";
+
+"sport_details_fragment_swimming_length" = "Lunghezza della piscina (m)";
+"sport_details_fragment_swimming_arm" = "Orunning";
+"sport_details_fragment_swimming_train_number" = "Numero di volte";
+
+"reminders_snooze" = "Posticipa (min)";
+"sport_strava_share_succeed" = "Condivisione avvenuta con successo";
+"sport_strava_share_fail" = "Condivisione fallita, si può condividere solo una volta";
+"my_name" = "Nome utente";
+
+"watch_disconnect_title" = "Disconnetti  Bluetooth";
+"watch_disconnect_go_to" = "Vai a";
+
+"activity_sport_details_year" = "Anno";
+"activity_sport_details_all" = "Tutti";
+"activity_sport_details_beyond" = "Più del periodo di tempo corrente";
+
+"hr_report_dangerous" = "Pericoloso";
+
+"calendar_mon" = "L";
+"calendar_tue" = "M";
+"calendar_wed" = "M";
+"calendar_thu" = "G";
+"calendar_fri" = "V";
+"calendar_sat" = "S";
+"calendar_sun" = "D";
+
+"ssdk_oks_share" = "Condividere";
+"ssdk_oks_sharing" = "L'operazione di condivisione funziona in background ...";
+"ssdk_oks_share_failed" = "Operazione fallita";
+"ssdk_oks_share_completed" = "Operazione riuscita";
+"ssdk_oks_share_canceled" = "Operazione annullata";
+"ssdk_oks_cancel" = "Annulla";
+"ssdk_oks_multi_share" = "Condivisione di foto";
+"ssdk_oks_confirm" = "Confermare";
+"ssdk_oks_contacts" = "Contatti";
+"ssdk_oks_pull_to_refresh" = "Trascinare verso il basso per aggiornare";
+"ssdk_oks_release_to_refresh" = "Rilascia per aggiornare";
+"ssdk_oks_refreshing" = "Aggiornando";
+
+
+
+
+"connect_applehealth" = "Connetti Apple Health";
+"connect" = "Collegato";
+"disconnect" = "Scollegato";
+
+"January" = "Gennaio";
+"February" = "Febbraio";
+"March" = "Marzo";
+"April" = "Aprile";
+"May" = "Maggio";
+"June" = "Giugno";
+"July" = "Luglio";
+"August" = "Agosto";
+"September" = "Settembre";
+"October" = "Ottobre";
+"November" = "Novembre";
+"December" = "Dicembre";
+
+"setting_connect_done" = "Completato";
+"update_download" = "Scaricando";
+"update_upgrading" = "Aggiornando";
+"update_downfail" = "Download fallito";
+"update_lowpower" = "Batteria scarica";
+"update_downloadnew" = "Scarica la nuova versione";
+"firmware_success_tip" = "L'aggiornamento ha avuto successo. Si prega di disconnettere il dispositivo e riconnetterlo";
+
+"automatic_heart_switch" = "Frequenza cardiaca";
+"Turn_Off" = "OFF";
+"Turn_On" = "ON";
+
+
+"KCTDFUNotice" = "Nota: non chiudere l'APP durante il processo di aggiornamento e mantieni il dispositivo e il telefono a distanza ravvicinata. Se l'aggiornamento fallisce, il nome del dispositivo diventa DfuTargXXX. Ricollegare il dispositivo e aggiornare di nuovo.";
+"set_up_clock_max" = "Superato il limite massimo di allarme";
+
+"set_up_clock_max_num" = "Hai già raggiunto il limite di impostazione";
+"sleep_details_weak" = "Sveglia";
+"sport_climbing_height" = "Altezza di arrampicata (m)";
+"swimming_unit" = "(minuti / 100 metri)";
+
+"sport_report_hr_zone0" = "Nessuna zona";
+"open_bluetooth" = "Bluetooth è disattivato, si prega di attivarlo nelle impostazioni ...";
+"0" = "";
+"forget_device_label1" = "Connessione interrotta";
+"forget_device_label2" = "Dopo averlo dissociato, il dispositivo può connettersi con altri telefoni";
+"forget_device_label3" = "Impostazioni di sistema → Bluetooth → fare clic";
+"forget_device_label4" = "Pulsante → Dimentica questo dispositivo";
+"forget_device_button2" = "Fatto";
+"sleep_details_awake_time" = "Tempo sveglio";
+"setting_connect_prompt1" = "Attiva il bluetooth del tuo smart phone";
+"wave_his_photo" = "Agita il polso per scattare foto";
+"Average_pace" = "Velocità media";
+"history_year" = "Anno";
+"history_all" = "Tutti";
+"user_name" = "Nome utente";
+
+"activity_main_login_in" = "LOGIN";
+"activity_main_sign_in" = "ISCRIVITI";
+
+"fragment_login_hint" = "Accedi a IGET per  il sistema cloud";
+"fragment_login_create_account" = "Crea un account GO";
+"fragment_login_forget_password" = "Hai dimenticato la password?";
+"fragment_login_email" = "E-mail";
+"fragment_login_password" = "Password ";
+"fragment_login_title" = "LOGIN";
+"fragment_login_success" = "Accesso riuscito";
+"fragment_login_fail" = "Email o password non corrette.";
+"fragment_login_fail_account_nonentity" = "L'account non esiste";
+"fragment_login_fail_empty" = "Account o password non possono essere vuoti";
+
+"fragment_forget_password_title" = "Resetta la password";
+"fragment_forget_password_next" = "Successivo";
+"fragment_account_verification_title" = "Verifica dell'account";
+"fragment_account_verification_address" = "Verifica indirizzo e-mail";
+"fragment_account_verification_verify" = "Invia il codice di verifica al tuo indirizzo email";
+"fragment_account_verification_send" = "Inviare";
+"fragment_account_verification_code" = "Il codice di verifica è stato inviato";
+"fragment_account_verification_fail_email" = "La mail non può essere inviata temporaneamente, per favore riprova più tardi";
+"fragment_reset_password_enter_code" = "Inserisci il codice";
+"fragment_reset_password_new_password" = "Per favore inserisci la tua nuova password";
+"fragment_reset_password_repeat_password" = "Reinserire la password";
+"fragment_reset_password_password_length" = "La password deve contenere almeno 6 caratteri e includere sia numeri che lettere.";
+"fragment_reset_password_submit" = "Sottoscrivi";
+"fragment_reset_password_back" = "Indietro";
+"fragment_reset_password_success" = "Password cambiata con successo";
+"fragment_reset_password_fail_code" = "Il codice di verifica non corrisponde";
+"fragment_reset_password_empty_code" = "Il codice di verifica deve essere inserito";
+
+
+"fragment_sign_in_title" = "ISCRIVITI";
+"fragment_sign_in_hint" = "Crea un account GO";
+"fragment_sign_in_content" = "Quando si utilizza questa applicazione, i dati personali possono essere elaborati. Puoi leggere l'informativa sulla privacy qui.";
+"fragment_sign_in_select_title" = "Accetto il trattamento dei dati personali per scopi di marketing e l'utilizzo dei dati in forma anonima per i miei scopi statistici. Posso leggere il contenuto dell'accordo qui.";
+"fragment_sign_in_select_yes" = "Si";
+"fragment_sign_in_select_no" = "No";
+"fragment_sign_in_select_here" = "Qui";
+"fragment_sign_in_country" = "Paese / Regione";
+"fragment_sign_up_email" = "Il formato e-mail non è corretto";
+"fragment_sign_up_password" = "La password non può essere inferiore a 6 cifre";
+"fragment_sign_up_register_success" = "Registrazione avvenuta";
+"fragment_sign_up_register_fail_account" = "L'account esiste già";
+"fragment_sign_up_register_fail" = "C'è un problema con la rete, per favore riprova più tardi";
+"fragment_sign_up_register_fail_country" = "Il Paese non può essere vuoto";
+
+
+"fragment_cloud_data_back_up_title" = "Backup dei dati cloud";
+"fragment_cloud_data_back_up_over_wifi" = "Backup dei dati cloud solo tramite Wi-Fi";
+"fragment_cloud_data_restore" = "Ripristino dei dati cloud";
+"fragment_cloud_data_upload_success" = "Caricamento riuscito";
+"fragment_cloud_data_upload_fail" = "Caricamento fallito, per favore riprova";
+"fragment_cloud_data_fail_wifi" = "Si prega di effettuare il backup dei dati in ambiente WiFi";
+"fragment_cloud_data_download_success" = "Scaricato i dati personali con successo";
+"fragment_cloud_data_download_fail" = "Download fallito";
+"fragment_cloud_data_download_fail_hint" = "Download fallito, per favore riprova";
+
+
+"fragment_about_title" = "Circa";
+"fragment_about_device_name" = "Nome del dispositivo";
+"fragment_about_firmware_version" = "Versione del firmware";
+"fragment_about_mac_address" = "Indirizzo MAC";
+"fragment_about_privacy" = "<u> Informativa sulla privacy";
+"fragment_about_processing" = "<u> Informativa sulla privacy - elaborazione";
+"fragment_about_current_version" = "Versione attuale";
+
+"fragment_settings_logout" = "Logaut";
+
+"fragment_change_password_title" = "Cambia la password";
+"fragment_change_password_old" = "Vecchia password";
+"fragment_change_password_new" = "Nuova password";
+"fragment_change_password_repeat" = "Ripeti la password";
+"fragment_change_password_inconsistent_password" = "Le password non corrispondono, per favore reinserisci!";
+"fragment_change_password_success" = "Password cambiata con successo";
+"fragment_change_password_fail_account" = "La modifica della password non è riuscita, l'account e la password non corrispondono";
+
+"image_upload_success" = "Immagine caricata con successo";
+"image_upload_fail" = "Caricamento immagine fallito";
+"privacy_plicy_tip" = "Si prega di accettare l'Accordo sulla privacy dell'utente";
+
+
+"sleep_details_avg" = "Media";
+"searchBle_search" = "Ricerca dispositivo";
+"searchBle_instructions" = "Prima accendi il dispositivo, poi  avvicinalo al telefono";
+"searchBle_reloadDevice" = "Cerca di nuovo";
+"searchBle_wait" = "Attendere...";
+"home_bmi_fat" = "Obesità";
+"entry_goal_Tip" = "Impostare l'obiettivo";
+"apple_health_label" = "Sincronizzazione dati Orunning con Apple Health";
+"apple_health_textview" = "App supporta la condivisione dati con Apple Store app\n1. Aprire “Apple Health” app\n2. Cliccare Menu - Origine dati, e selezionare Orunning dall'elenco. Attivare/disattivare i permessi di condivisione.\n3.  Smartwatch sincronizzerà automaticamente i dati con Apple.";
+"apple_health_go" = "Lo so, sincronizzare ora";
+"apple_health_later" = "In seguito";
+"about_official" = "Oplayer";
+"about_privacy" = "Politica sulla riservatezza";
+"about_version" = "Versione";
+"setting_connect_try_again" = "Riprovare";
+
+"about" = "Informazioni";
+"entry_weight_title" = "Inserire il peso";
+"entry_weight_hint" = "Compilare le informazioni sul peso.";
+"entry_weight_lightest" = "Più leggero";
+"entry_weight_most" = "Meno leggero";
+"entry_weight_goal" = "Obiettivo";
+"str_main_partial" = "Sottopeso";
+"str_main_standard" = "Standard";
+"str_main_overweight" = "Sovrappeso";
+"firmware_unfinished" = "I dispositivi rilevati non sono stati aggiornati, continua ad aggiornare!";
+
+
+
+
+
+
+
+"bluetooth_connot_connect" = "Non riesci a collegare il Bluetooth?";
+"help_Q1" = "Assicurati che l'app sia aggiornata dal Play Store. \ N2. Assicurarati che il dispositivo (schermo) sia ON \ n3. Assicurarsi che il Bluetooth sul telefono sia ATTIVATO \ n4. Assicurarsi che il dispositivo si trovi vicino allo smartphone";
+"bluetooth_disconnect" = "Il Bluetooth si disconnette frequentemente?";
+"help_Q2" = "1. La connessione Bluetooth potrebbe interrompersi se l'app è chiusa in background. Devi riavviare l'app e mantenerla attiva in background per riconnetterti di nuovo. \ N2. Prova ad attivare e disattivare il Bluetooth sul telefono. Nota: se il telefono è in modalità di risparmio energetico o di risparmio batteria, potrebbe interrompere l'app in background e quindi causare la disconnessione.";
+
+"bluetooth_syn_error" = "La sincronizzazione impiega troppo tempo oppure fallisce?";
+"help_Q3" = "1. Assicurati che la connessione Bluetooth sia eseguita correttamente 2. Prova ad aggiornare l'app facendo scorrere lo schermo verso il basso nella pagina "Oggi". 3. Se nessuna delle precedenti funzioni riesce, chiudi l'app in background, riapri e riconnetti";
+"sleepdata_delayed" = "Non riesci a trovare i dati del sonno oppure li trovi  in ritardo?";
+"help_Q4" = "1. Il dispositivo è progettato per il rilevamento automatico del sonno dalle 21:00 alle 08:00 al mattino. 2. Assicurati che il dispositivo abbia abbastanza batteria per dormire durante la notte. I dati sul sonno non verranno salvati se il dispositivo si spegne durante la notte a causa della mancanza di batteria. 3. I dati relativi al sonno verranno salvati sul dispositivo al termine del periodo di rilevamento automatico del sonno.";
+"sms_notification_notwork" = "Non ricevo ne le notifiche dei messaggi ne delle telefonate.";
+"help_Q5" = "1. Assicurati che il dispositivo sia connesso all'app. (Riapri l'app per confermare) 2. Puoi andare su impostazioni delle notifiche e attivare "Altre app" 3. Se entrambi sopra falliscono, spegni e riaccendi lo smartphone.";
+"device_fail_steps" = "Il dispositivo non conta i passi o altri dati.";
+"help_Q6" = "1 Riavvia il dispositivo per risolvere il problema";
+"app_crash_constantly" = "L'app si blocca costantemente.";
+"help_Q7" = "1. Prova a chiudere l'app e riaprirla. 2. Assicurati che l'app sia aggiornata dal Play Store.";
+"wrong_weather" = "Meteo o temperatura non corretti?";
+"help_Q8" = " 1 Assicurati che il Bluetooth tra il dispositivo e lo smartphone sia ben collegato. 2 Vai in impostazioni, meteo, quindi inserisci manualmente la tua città";
+"help_Q9" = "In caso di problemi o suggerimenti, non esitare a inviarci feedback.";
+
+"setting_help" = "FAQ";
+"about_comments" = "Tocca per votare questa app";
+"WDB_syncData" = "Dati sincroni";
+"search_paired" = "Collegato";
+"setting_feedback" = "Feedback";
+"feedback_submit" = "Sottoscrivi";
+"feedback_suggestions" = "Suggerimenti";
+"feedback_performance" = "Problemi";
+"feedback_contenst" = "Contenuti";
+"feedback_devicetype" = "Tipo di dispositivo";
+"setting_takephoto" = "Scatta foto";
+"serail_number" = "Numero di serie";
+
+"swimming_pool_distance" = "Distanza piscina";
+"firmware_new" = "Scopri il nuovo firmware";
+"swimming_butterfly_stroke" = "Stile delfino";
+"swimming_stroke_times" = "Tempi di corsa";
+"swimming_medley_stroke" = "Stile misto";
+"swimming_swolf" = "Swolf";
+"fastest" = "Il più veloce";
+"feedback_device_name" = "Nome dispositivo";
+"swimming_pace" = "Ritmo";
+"swimming_freestyle" = "Stile libero";
+"swimming_avg_pace" = "Ritmo medio";
+"feedback_device_version" = "Versione del Bluetooth";
+"swimming_laps" = "Numero di giri";
+"swimming_backstroke" = "Stile dorso";
+"feedback_system_os" = "Versione di sistema";
+"swimming_swolf_rate" = "SWOLF";
+"swimming_stroke_rate" = "";
+"swimming_breaststroke" = "";
+"firmware_tip_success" = "Attendere 1 minuto per ricollegare il dispositivo";
+"swimming_posture" = "Postura";
+
+"bluetoothcall_transmission_ans" = "";
+"setting_bluetoothCall" = "";
+"bluetoothcall_transmission" = "";
+"bluetoothcall_connect" = "";
+"bluetooth_tosetting" = "";
+"bluetoothcall_disconnect" = "";
+"remind_later" = "";
+"bluetoothcall_open_jurisdiction" = "";
+
+"feedback_devicename" = "";
+"feedback_devicefirm" = "";
+"tip_device" = "";
+"tip_firmware" = "";
+"tip_describe" = "";
+"tip_mail" = "";
+
+"devicetype_nocontents" = "";
+"suggestion_nocontents" = "";
+
+"feedback_devicetype" = "";
+"feedback_brand" = "";
+"brandname_nocontents" = "";
+"give_good_review" = "";
+"feedback_issue" = "";
+"cant_find_title" = "";
+"cant_find_msg" = "";
+
+"settings_fragment_google_fit" = "";
+"settings_fragment_google_fit_hint" = "";
+"sport_swim_posture" = "";
+"sport_swim_pace" = "";
+"sport_swim_pace_unit" = "";
+"sport_swim_stroke" = "";
+"sport_swim_swolf" = "";
+"sport_swim_distance" = "";
+"sport_swim_number" = "";
+"firmware_upgrade_notes" = "";
+"help_Q10" = "Quando l'app avvia l'aggiornamento del firmware, tieni la batteria dell'orologio sopra il 50%, per favore non spegnere o scollegare lo smartwatch, assicurati che il braccialetto sia vicino allo smartphone. Il display si spegne durante l'aggiornamento. Attendere prego. Se l'aggiornamento del firmware non è riuscito, ma il display dello smartwatch è ancora spento, torna all'app per avviare nuovamente il processo di aggiornamento.";
+
+"smart_watch_square" = "";
+"about_ss" = "";
+"remind_time" = "";
+"remind_repeat_number" = "";
+"remind_number_unit" = "";
+"open_overlays_message" = "";
+"ignoring_battery_message" = "";
+"version" = "";
+
+"syn_data" = "";
+"persion_message_explain" = "";
+"nopair_Q1" = "";
+"nopair_A1" = "";
+"nopair_Q2" = "Il collegamento non è riuscito?";
+"nopair_A2" = "1 Prova a disattivare il bluetooth dallo smartphone e riattivarlo. 2 Oppure spegnere il dispositivo, quindi accendere e cercare nuovamente dall'app. 3 Oppure spegnere e riaccendere lo smartphone, accendere l'app e cercare nuovamente il dispositivo. 4 O il dispositivo è collegato ad un altro smartphone? 5 Impostazioni di sistema dell'altro smartphone, Bluetooth,  dissocia  l'orologio quindi riprova con lo smartphone corretto.";
+"bluetooth_restart" = "";
+"0" = "";
+
+"setting_medicine" = "";
+"setting_meeting" = "";
+
+"str_main_blood" = "";
+"str_main_ecg" = "";
+"str_main_hrv" = "";
+"general_level" = "";
+"good_level" = "";
+"optimal_level" = "";
+"main_health_vc" = "";
+"str_main_mmhg" = "";
+"str_lowest" = "";
+"str_highest" = "";
+"jiaozhun_title" = "";
+"measure_title" = "";
+"lead_off" = "";
+"tip_1" = "";
+"measure_start" = "";
+"measure_stop" = "";
+"hrv_help_title" = "";
+"health_index" = "";
+"hrv_help_health_text" = "";
+"hrv_help_fatigue_text" = "";
+"hrv_help_load_text" = "";
+"hrv_help_quality_text" = "";
+"hrv_help_heart_text" = "";
+"jiaozhun_text1" = "";
+"jiaozhun_accurate" = "";
+"reminder" = "";
+"jiaozhun_text2" = "";
+"jiaozhun_text3" = "";
+"jiaozhun_dailog_title" = "";
+"jiaozhun_grade" = "";
+"user_par_state0" = "";
+"user_par_state4" = "";
+"cant_null" = "";
+"dialog_measure_tip1" = "";
+"dialog_measure_tip2" = "";
+"healthy_prompt_no_appera" = "";
+"dialog_yes" = "";
+"calibration" = "";
+"hrv_help_health_proposal_text1" = "";
+"hrv_help_health_proposal_text3" = "";
+"hrv_help_title1" = "";
+"hrv_help_heartrate_title" = "";
+"ecg_measure_hrv_par0" = "";
+"jiaozhun_toast" = "";
+"jioazhun_error" = "";
+"my_health_report" = "";
+"play" = "";
+"remind_end_time" = "";
+"generating_report" = "";
+"report_generation_completed" = "";
+"share_pdf" = "";
+"detailed_report" = "";
+"healthdy_blood_title" = "";
+"healthdy_heart_title" = "";
+"jiaozhun_par1" = "";
+"jiaozhun_par2" = "";
+"user_par_state1" = "";
+"user_par_state2" = "";
+"user_par_state2_1" = "";
+"user_par_state3" = "";
+"hrv_health_index" = "";
+"hrv_health_advices" = "";
+"blood_char_par1_text" = "";
+"blood_char_par2_text" = "";
+"hrv_help_fatigue_title" = "";
+"hrv_help_quality_title" = "";
+"hrv_help_load_title" = "";
+"hrv_help_heart_title" = "";
+"hrv_help_health_proposal_text2" = "";
+"hrv_help_fatigue_proposal_text2" = "";
+"hrv_help_load_proposal_text2" = "";
+"hrv_help_quality_proposal_text2" = "";
+"hrv_help_heart_proposal_text2" = "";
+"measure_tuouo" = "";
+"ecg_measure_hrv_par2" = "";
+"blood_pressure_level" = "";
+"wechat_sport" = "";
+"add_wechat_1" = "";
+"blood_char_par2_text" = "";
+"healthy_jiaozhun_prompt" = "";
+"hrv_help_title2" = "";
+"hrv_help_quality_proposal_text1" = "";
+"ecg_measure_hrv_par1" = "";
+"play_start" = "";
+"add_wechat_2" = "";
+"heart" = "";
+"hrv_help_fatigue_proposal_text1" = "";
+"hrv_help_load_proposal_text1" = "";
+"hrv_help_quality_proposal_text3" = "";
+"hrv_help_load_proposal_text3" = "";
+"hrv_help_load_title" = "";
+"jiaozhun_text3" = "";
+"play_stop" = "";
+"nickname" = "";
+"measure_stop" = "";
+"str_highest" = "";
+"hrv_help_health_text" = "";
+"hrv_help_fatigue_proposal_text3" = "";
+"blood_pressure" = "";
+"measure_zhixian" = "";
+"hrv_help_quality_title" = "";
+"jiaozhun_dailog_error2" = "";
+"add_wechat_3" = "";
+"hrv_help_heart_proposal_text1" = "";
+"hrv_help_heart_proposal_text3" = "";
+"Smart_Ecg" = "";
+"pause" = "";
+
+"strava_success" = "";
+"strava_file" = "";
+"strava_detection" = "";
+"strava_title" = "";
+
+"bluetooth_change_phone" = "";
+"help_Q11" = "";
+"low_power_tip" = "";
+"transfer_data" = "";
+"help_Q12" = "";
+"ota_low_power" = "";
+"bond_bindding" = "";
