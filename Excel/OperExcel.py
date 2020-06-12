@@ -1,7 +1,9 @@
 import xlrd
 import os
 from pip._vendor.distlib.compat import raw_input
-from openpyxl import load_workbook
+from openpyxl import load_workbook,Workbook
+
+wb = Workbook()
 
 def Excel():
     fileName = raw_input("请输入文件夹路径：")
@@ -10,6 +12,8 @@ def Excel():
 
 
 def _getAllFileOfPath(fileName):
+    ws = createExcel()
+    index = 1
     for root, dirs, files in os.walk(fileName):
         # print("当前目录路径",root)  #当前目录路径
         # print("当前路径下的所有子目录",dirs)  # 当前路径下的所有子目录
@@ -17,13 +21,33 @@ def _getAllFileOfPath(fileName):
         # 判断files 是否是excel
         for name in files:
             if name.endswith(".xls") or name.endswith(".xlsx"):
-                # print("是excel： %s ，文件路径为 %s" %(name,root))
+                print("是excel： %s ，文件路径为 %s" %(name,root))
                 try:
                     restr = dealWithExcelFile(root + "/" + name,name)
+                    index += 1
                     print(restr)
+                    writeDataToExecl(ws, index, str(root[len(fileName):]),restr[0],restr[1] )
                 except:
                     print("打开文件出错 excel： %s ，文件路径为 %s" %(name,root))
                 # Useopenpyxl(root + "/" + name)
+
+    wb.save("./抓取结果.xlsx")
+
+def createExcel():
+    ws = wb.active
+    ws.insert_rows(1)
+    ws["A1"] = "供应商"
+    ws["B1"] = "文件名"
+    ws["C1"] = "总金额"
+    return ws
+
+
+def writeDataToExecl(ws,index,supplier,fileName,totalPrice):
+    ws.cell(index, 1).value = supplier
+    ws.cell(index, 2).value = fileName
+    ws.cell(index, 3).value = totalPrice
+
+
 
 def dealWithExcelFile(excelFIle,fileName):
     # 打开文件
@@ -48,7 +72,7 @@ def dealWithExcelFile(excelFIle,fileName):
                 if totalPrice == "0":
                     totalPrice = str(rowValue[priceCol])
 
-    return "文件名:" + fileName + "\n" + "总金额:" + totalPrice
+    return (fileName,totalPrice)
 
 
 def Useopenpyxl(fileName):
